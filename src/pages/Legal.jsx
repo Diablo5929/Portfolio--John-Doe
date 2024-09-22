@@ -147,7 +147,7 @@ export default function Legal() {
           >
             <div class="accordion-body">
               <h3>Crédits</h3>
-              <p>Site développé par Hugo Melin, étudiant du CEF.</p>
+              <p>Site développé par Hanon Mickael, étudiant du CEF.</p>
               <p>
                 Les images libres de droit sont issues du site{" "}
                 <a href="https://pixabay.com/fr/" style={{ color: "#0d6efd" }}>
